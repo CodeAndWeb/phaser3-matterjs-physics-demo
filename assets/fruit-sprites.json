@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "fruit-sprites.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1380,
+				"h": 1202
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background",
+					"rotated": true,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1200,
+						"h": 960
+					}
+				},
+				{
+					"filename": "ground",
+					"rotated": true,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1200,
+						"h": 626
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 339,
+						"w": 1200,
+						"h": 287
+					},
+					"frame": {
+						"x": 963,
+						"y": 1,
+						"w": 1200,
+						"h": 287
+					}
+				},
+				{
+					"filename": "banana",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 1252,
+						"y": 1,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "orange",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 127,
+						"h": 123
+					},
+					"frame": {
+						"x": 1252,
+						"y": 131,
+						"w": 127,
+						"h": 123
+					}
+				},
+				{
+					"filename": "cherries",
+					"rotated": true,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 120,
+						"h": 125
+					},
+					"frame": {
+						"x": 1252,
+						"y": 256,
+						"w": 120,
+						"h": 125
+					}
+				},
+				{
+					"filename": "crate",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 123,
+						"h": 121
+					},
+					"frame": {
+						"x": 1252,
+						"y": 378,
+						"w": 123,
+						"h": 121
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0d0bce26c10ae31fb56fffa698e98974:1f8e7cbe61cf17088e7b8ba8bd089be7:25f385b2bb08c04649fd253213a50a44$"
+	}
+}
